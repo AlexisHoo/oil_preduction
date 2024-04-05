@@ -15,19 +15,21 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 # Very fast summary !
-🧹 1st step: Clean the Data <br/>
-![Data Cleaning](img/data_clean_pres.png) <br/>
-![Heat Map](img/heatmap.png)<br/>
-![Correlations](img/high_corre.png) <br/>
-![Distribution](img/distribution.png)<br/>
-![Outliers](img/outliers.png)<br/>
+# 🧹 1st step: Clean the Data
+<img src="img/data_clean_pres.png" alt="Data cleaning" width="450" height="300">
+<img src="img/heatmap.png" alt="Heat Map" width="450" height="300">
+<img src="img/high_corre.png" alt="Correlations" width="450" height="300">
+<img src="img/distribution.png" alt="Distribution" width="450" height="300">
+<img src="img/outliers.png" alt="Outliers" width="450" height="300"><br/>
 
-👀 2nd step: Data visualization <br/>
-![Year oil](img/oil_year.png)<br/>
-![Events](img/outliers_events.png)<br/>
+# 👀 2nd step: Data visualization
 
-📐 3rd step: Construct the models. We chose Elastic Net, SVM, Random Forest and ANN. <br/>
+<img src="img/oil_year.png" alt="Year oil" width="450" height="300">
+<img src="img/outliers_events.png" alt="Events" width="450" height="300"><br/>
+<br/>
 
-📈 4th step: Present the results:<br/>
-![Results](img/result.png)<br/>
+# 📐3rd step: Construct the models. 
+We chose Elastic Net, SVM, Random Forest and ANN. <br/>
+# 📈 4th step: Present the results<br/>
+<img src="img/result.png" alt="Results" width="450" height="300"><br/>
 
